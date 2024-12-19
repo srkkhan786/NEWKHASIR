@@ -1,5 +1,4 @@
 import os
-import telebot
 import logging
 import random
 import asyncio
