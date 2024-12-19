@@ -1,6 +1,7 @@
 import os
 import logging
 import random
+import telebot
 import asyncio
 from datetime import datetime, timedelta
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
